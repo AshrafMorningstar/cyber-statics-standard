@@ -18,5 +18,13 @@
   "devDependencies": {
     "eslint": "^8.0.0",
     "eslint-plugin-react": "^7.0.0"
-  }
+  },
+  "keywords": [
+    "automation",
+    "developer-tools",
+    "productivity",
+    "open-source",
+    "viral"
+  ],
+  "author": "Ashraf Morningstar"
 }
